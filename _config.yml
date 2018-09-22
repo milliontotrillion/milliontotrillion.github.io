@@ -1,7 +1,7 @@
 # Site settings
 title: "내일은어떤주식이오를까"
 description: "Minimalist Jekyll theme for documentation site"
-baseurl: "https://milliontotrillion.github.io/" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
+baseurl: "https://milliontotrillion.github.io" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
 url: ""
 author: "RRR"
 
